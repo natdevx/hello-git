@@ -3,3 +3,8 @@
 # por eso estoy haciendo este archivo
 
 print("Este es un archivo de prueba para git checkout.")
+
+# Clase sobre aprender Pull Request
+
+print("Aprendiendo a hacer Pull Requests en GitHub.")
+print("Haciendo cambios para probar Pull Requests.")
